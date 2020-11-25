@@ -10,6 +10,7 @@ class CategoriesScreen extends StatelessWidget {
         title: Text('Vamos cozinhar?'),
       ),
       body: GridView(
+        padding: EdgeInsets.all(20),
         gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
           maxCrossAxisExtent: 200,
           childAspectRatio: 3 / 2,
