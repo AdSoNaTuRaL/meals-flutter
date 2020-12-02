@@ -26,12 +26,12 @@ A few resources to get you started if this is your first Flutter project:
 - Start with :star: in this repo and clone it.
 ```bash
 # Clone Repository
-$ git clone https://github.com/AdSoNaTuRaL/meals.git
+$ git clone https://github.com/AdSoNaTuRaL/meals-flutter.git
 ```
 - 🆚️ Open the project in VSCode or Android Studio.
 ```bash
 # Go to project folder
-$ cd meals/
+$ cd meals-flutter/
 $ code .
 
 # Run to get the packages
