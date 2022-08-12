@@ -1,9 +1,6 @@
 <div align="center">
    <h1>Meals</h1>
    <h4>A simnple flutter project designed to further study the concepts of flutter such as navigation between screens, routes, other widgets and other things </h4>
-  <sub>Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
 </div>
 
 ## ✅ Getting Started
